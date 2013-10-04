@@ -1,7 +1,16 @@
 # RubyGDL Community
 
+## Nuestra Misión
+
+** COMPARTIR >> experiencias, aprendizajes, proyectos, convivencia, retos...**
+
 La idea de este proyecto es poder definir las bases sobre las cuales se defina nuestra comunidad y tener
 un medio de comunicación y colaboración abierto.
+
+## En proceso
+
+Este es un documento en proceso, si quieres colaborar, simplemente abre un issue en este repositorio o solicita acceso
+para poder crear pull requests.
 
 ## Próximos eventos
 
@@ -20,5 +29,3 @@ un medio de comunicación y colaboración abierto.
 
 ### Febrero
 * Hangout with Sandi Metz
-
-Si quieres colaborar, simplemente abre un issue en este repositorio.
