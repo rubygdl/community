@@ -1,41 +1,24 @@
-help me to grow
-===============
-Lineas estrategicas
+# RubyGDL Community
 
-Queremos que crezca el número de miembros?
-Queremos tener más presencia en la industria?
-Queremos hacer acciones de evangelización?
-Queremos generar materiales de capacitación?
-Queremos generar herramientas?
-Queremos tener más interacción con otras comunidades?
+La idea de este proyecto es poder definir las bases sobre las cuales se defina nuestra comunidad y tener
+un medio de comunicación y colaboración abierto.
 
-Calendario
-Octubre
-Reunion mensual - Lightning Talks
+## Próximos eventos
 
-Noviembre
-Reunion mensual Tematica
+### Octubre
+* Reunion mensual - Lightning Talks
 
-Diciembre
-Global Day of Coderetreat
+### Noviembre
+* Reunion mensual Tematica
 
-Enero
-Reunion mensual Tematica
-Convocatoria a leer POODR de Sandi
+### Diciembre
+* Global Day of Coderetreat
 
-Febrero
-Hangout with Sandi Metz
+### Enero
+* Reunion mensual Tematica
+* Convocatoria a leer POODR de Sandi
 
-Lluvia de ideas
-Buscar la manera de convocar a mas participantes a las reuniones
-Reuniones tematicas (persistencia, buenas practicas, otros lenguajes)
-Club de lectura de algun libro + invitar al autor (Obie, Avdi, Ryan Biggs entre otros)
-Talleres practicos (artoo, rails, etc)
-Generar mas interaccion entre los participantes de las reuniones… como?
-Posibilidad de armar materiales para capacitación de Ruby
-Colaborar con otras comunidades locales y remotas
-Reunion de comunidades en Magmaconf
-Ir al startup weekend de Irapuato
-Definir objetivo en dos palabras (Javier: Compartir/Colaborar)
-Base de miembros (con linkedin, twitter, email, etc)
-Negociar beneficios para los miembros como descuentos en congresos, eventos, lugares...
+### Febrero
+* Hangout with Sandi Metz
+
+Si quieres colaborar, simplemente abre un issue en este repositorio.
