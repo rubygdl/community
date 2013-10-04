@@ -1,16 +1,20 @@
 # RubyGDL Community
 
-## Nuestra Misión
+**RubyGDL es una comunidad basada en Guadalajara con la misión de COMPARTIR >> experiencias, aprendizajes, proyectos, convivencia, retos...**
 
-**COMPARTIR >> experiencias, aprendizajes, proyectos, convivencia, retos...**
+## Que es esto?
 
 La idea de este proyecto es poder definir las bases sobre las cuales se defina nuestra comunidad y tener
 un medio de comunicación y colaboración abierto.
 
-## En proceso
+## Colabora
 
-Este es un documento en proceso, si quieres colaborar, simplemente abre un issue en este repositorio o solicita acceso
+* Este es un documento en proceso, si quieres colaborar, simplemente abre un issue en este repositorio o solicita acceso
 para poder crear pull requests.
+
+## Como enviar una propuesta
+
+* Crea un nuevo branch y envia un pull request
 
 ## Próximos eventos
 
