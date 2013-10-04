@@ -19,7 +19,7 @@ para poder crear pull requests.
 ## Próximos eventos
 
 ### Octubre
-* [Reunion mensual - Lightning Talks](/octubre2013.md)
+* [Reunion mensual - Lightning Talks](/octubre_2013.md)
 
 ### Noviembre
 * Reunion mensual Tematica
