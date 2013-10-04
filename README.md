@@ -2,7 +2,7 @@
 
 ## Nuestra Misión
 
-** COMPARTIR >> experiencias, aprendizajes, proyectos, convivencia, retos...**
+**COMPARTIR >> experiencias, aprendizajes, proyectos, convivencia, retos...**
 
 La idea de este proyecto es poder definir las bases sobre las cuales se defina nuestra comunidad y tener
 un medio de comunicación y colaboración abierto.
